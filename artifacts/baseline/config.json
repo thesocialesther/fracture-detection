@@ -1,0 +1,6 @@
+{
+  "target_sensitivity": 0.95,
+  "c": 0.01,
+  "manifest_sha256": "8660692ee1b5069b83519d6543789a48bec23b8fe2c03517fc6de8b2d9e84817",
+  "model": "balanced logistic regression on 64px image/gradient features"
+}

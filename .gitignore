@@ -1,0 +1,14 @@
+/data/
+/artifacts/baseline_features.npz
+/artifacts/torch_cache/
+.venv/
+.packages/
+__pycache__/
+*.zip
+*.py[cod]
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.github-upload/
