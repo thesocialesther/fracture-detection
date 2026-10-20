@@ -1,0 +1,30 @@
+{
+  "metrics": {
+    "threshold": 0.0006424671737477183,
+    "n": 599,
+    "fracture_prevalence": 0.17863105175292154,
+    "tp": 92,
+    "tn": 44,
+    "fp": 448,
+    "fn": 15,
+    "sensitivity": 0.8598130841121495,
+    "sensitivity_ci95_wilson": [
+      0.7815165485959776,
+      0.9131684794079487
+    ],
+    "specificity": 0.08943089430894309,
+    "precision": 0.17037037037037037,
+    "negative_predictive_value": 0.7457627118644068,
+    "false_negative_rate": 0.14018691588785046,
+    "accuracy": 0.2270450751252087,
+    "roc_auc": 0.5752032520325203,
+    "average_precision": 0.2719419831440026
+  },
+  "checkpoint_sha256": "107c569ac004f7c5656828ed98556d53e89198125fd9cc3debdf78222821a095",
+  "manifest_sha256": "8660692ee1b5069b83519d6543789a48bec23b8fe2c03517fc6de8b2d9e84817",
+  "model_retrained": false,
+  "threshold_retuned": false,
+  "fresh_images_scored": 599,
+  "max_difference_from_original_predictions": 4.76837158203125e-07,
+  "elapsed_seconds": 10.669384000007994
+}

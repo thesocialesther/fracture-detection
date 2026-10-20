@@ -1,0 +1,175 @@
+{
+  "target_validation_sensitivity": 0.95,
+  "validation": {
+    "threshold": 0.0006424671737477183,
+    "n": 601,
+    "fracture_prevalence": 0.17970049916805325,
+    "tp": 103,
+    "tn": 41,
+    "fp": 452,
+    "fn": 5,
+    "sensitivity": 0.9537037037037037,
+    "sensitivity_ci95_wilson": [
+      0.896173774092564,
+      0.9800654785647654
+    ],
+    "specificity": 0.08316430020283976,
+    "precision": 0.18558558558558558,
+    "negative_predictive_value": 0.8913043478260869,
+    "false_negative_rate": 0.046296296296296294,
+    "accuracy": 0.23960066555740434,
+    "roc_auc": 0.6140598001652768,
+    "average_precision": 0.24895527122167643
+  },
+  "test": {
+    "threshold": 0.0006424671737477183,
+    "n": 599,
+    "fracture_prevalence": 0.17863105175292154,
+    "tp": 92,
+    "tn": 44,
+    "fp": 448,
+    "fn": 15,
+    "sensitivity": 0.8598130841121495,
+    "sensitivity_ci95_wilson": [
+      0.7815165485959776,
+      0.9131684794079487
+    ],
+    "specificity": 0.08943089430894309,
+    "precision": 0.17037037037037037,
+    "negative_predictive_value": 0.7457627118644068,
+    "false_negative_rate": 0.14018691588785046,
+    "accuracy": 0.2270450751252087,
+    "roc_auc": 0.5752032520325203,
+    "average_precision": 0.2719419831440026
+  },
+  "test_at_0.5": {
+    "threshold": 0.5,
+    "n": 599,
+    "fracture_prevalence": 0.17863105175292154,
+    "tp": 39,
+    "tn": 412,
+    "fp": 80,
+    "fn": 68,
+    "sensitivity": 0.3644859813084112,
+    "sensitivity_ci95_wilson": [
+      0.27945974844690114,
+      0.4589056306165552
+    ],
+    "specificity": 0.8373983739837398,
+    "precision": 0.3277310924369748,
+    "negative_predictive_value": 0.8583333333333333,
+    "false_negative_rate": 0.6355140186915887,
+    "accuracy": 0.7529215358931552,
+    "roc_auc": 0.5752032520325203,
+    "average_precision": 0.2719419831440026
+  },
+  "threshold_selected_on": "validation only",
+  "limitation": "Image-level research split; patient independence unverified. No subtlety labels.",
+  "test_subgroups": {
+    "hand": {
+      "threshold": 0.0006424671737477183,
+      "n": 209,
+      "fracture_prevalence": 0.32057416267942584,
+      "tp": 58,
+      "tn": 8,
+      "fp": 134,
+      "fn": 9,
+      "sensitivity": 0.8656716417910447,
+      "sensitivity_ci95_wilson": [
+        0.7639940822527299,
+        0.92768990004016
+      ],
+      "specificity": 0.056338028169014086,
+      "precision": 0.3020833333333333,
+      "negative_predictive_value": 0.47058823529411764,
+      "false_negative_rate": 0.13432835820895522,
+      "accuracy": 0.3157894736842105,
+      "roc_auc": 0.5410973302501577,
+      "average_precision": 0.4159102046424787
+    },
+    "leg": {
+      "threshold": 0.0006424671737477183,
+      "n": 342,
+      "fracture_prevalence": 0.09941520467836257,
+      "tp": 30,
+      "tn": 31,
+      "fp": 277,
+      "fn": 4,
+      "sensitivity": 0.8823529411764706,
+      "sensitivity_ci95_wilson": [
+        0.7337882520370121,
+        0.9532862902656388
+      ],
+      "specificity": 0.10064935064935066,
+      "precision": 0.09771986970684039,
+      "negative_predictive_value": 0.8857142857142857,
+      "false_negative_rate": 0.11764705882352941,
+      "accuracy": 0.1783625730994152,
+      "roc_auc": 0.5711420932009167,
+      "average_precision": 0.1444655677813314
+    },
+    "hip": {
+      "threshold": 0.0006424671737477183,
+      "n": 42,
+      "fracture_prevalence": 0.21428571428571427,
+      "tp": 6,
+      "tn": 4,
+      "fp": 29,
+      "fn": 3,
+      "sensitivity": 0.6666666666666666,
+      "sensitivity_ci95_wilson": [
+        0.35419734749908977,
+        0.879418401317257
+      ],
+      "specificity": 0.12121212121212122,
+      "precision": 0.17142857142857143,
+      "negative_predictive_value": 0.5714285714285714,
+      "false_negative_rate": 0.3333333333333333,
+      "accuracy": 0.23809523809523808,
+      "roc_auc": 0.5084175084175084,
+      "average_precision": 0.2750774584107918
+    },
+    "shoulder": {
+      "threshold": 0.0006424671737477183,
+      "n": 56,
+      "fracture_prevalence": 0.25,
+      "tp": 14,
+      "tn": 3,
+      "fp": 39,
+      "fn": 0,
+      "sensitivity": 1.0,
+      "sensitivity_ci95_wilson": [
+        0.7846829880728186,
+        1.0
+      ],
+      "specificity": 0.07142857142857142,
+      "precision": 0.2641509433962264,
+      "negative_predictive_value": 1.0,
+      "false_negative_rate": 0.0,
+      "accuracy": 0.30357142857142855,
+      "roc_auc": 0.6122448979591837,
+      "average_precision": 0.36619275458561173
+    },
+    "multiscan": {
+      "threshold": 0.0006424671737477183,
+      "n": 65,
+      "fracture_prevalence": 0.15384615384615385,
+      "tp": 7,
+      "tn": 13,
+      "fp": 42,
+      "fn": 3,
+      "sensitivity": 0.7,
+      "sensitivity_ci95_wilson": [
+        0.39677321997956516,
+        0.892210712513788
+      ],
+      "specificity": 0.23636363636363636,
+      "precision": 0.14285714285714285,
+      "negative_predictive_value": 0.8125,
+      "false_negative_rate": 0.3,
+      "accuracy": 0.3076923076923077,
+      "roc_auc": 0.4290909090909091,
+      "average_precision": 0.24636513075464106
+    }
+  }
+}

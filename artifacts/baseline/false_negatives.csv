@@ -1,0 +1,16 @@
+image_id,hand,leg,hip,shoulder,mixed,hardware,multiscan,fractured,fracture_count,frontal,lateral,oblique,width,height,path,pixel_sha256,split,probability,prediction,false_negative
+IMG0000822.jpg,1,0,1,0,1,1,0,1,1,1,0,0,373,454,data/raw/FracAtlas/images/Fractured/IMG0000822.jpg,dac2c7bc1deaa721dd0957901363fc5a641d78324d3a4e8e4c0871344416695c,test,7.41093754186295e-05,0,1
+IMG0001948.jpg,1,0,0,0,0,0,0,1,1,0,1,0,454,373,data/raw/FracAtlas/images/Fractured/IMG0001948.jpg,b82449024bf3de729e1e89108e49619b13b0d7a2cf9b4ea9c3f879b9c3da057c,test,1.0208516414422775e-06,0,1
+IMG0002122.jpg,0,1,0,0,0,0,0,1,1,1,0,0,373,454,data/raw/FracAtlas/images/Fractured/IMG0002122.jpg,f60d646a5884b84625ffa7a2c0e325dfc0b3f9445e55bf8e3c3c8eac44ab1404,test,0.00048169930232688785,0,1
+IMG0002373.jpg,0,1,0,0,0,1,0,1,2,1,0,0,2304,2880,data/raw/FracAtlas/images/Fractured/IMG0002373.jpg,b54803ace770819c1d68a832fff7e39b7ec6526be6c42b8d30f9c0d4b9f69e34,test,1.2298897900109296e-07,0,1
+IMG0002374.jpg,0,1,0,0,0,1,0,1,1,0,1,0,2304,2880,data/raw/FracAtlas/images/Fractured/IMG0002374.jpg,63ea5167a468e8d89e0aa3b2c3acddc540844c427c09be52e9df5b659fddbbf0,test,4.1060286548599834e-07,0,1
+IMG0002395.jpg,1,0,0,0,0,0,1,1,4,1,1,0,454,373,data/raw/FracAtlas/images/Fractured/IMG0002395.jpg,d67fe20843e6f29a5fc74f0d632af4aa3dccec81bbf6848ffc7d09976beb1605,test,1.3637793927046005e-05,0,1
+IMG0002434.jpg,0,1,0,0,0,0,0,1,1,0,1,0,454,373,data/raw/FracAtlas/images/Fractured/IMG0002434.jpg,f52291c45ed3d106a1b85b6311aef9de5a4624734ff790713fef780d42f547ee,test,9.013398084789515e-05,0,1
+IMG0002463.jpg,1,0,0,0,0,0,1,1,2,1,1,0,373,454,data/raw/FracAtlas/images/Fractured/IMG0002463.jpg,be3902a8761c5bf6d905bc45d717545a287c4ac44f7dfc70003cd4d817b547ac,test,0.0005173138924874365,0,1
+IMG0002491.jpg,1,0,0,0,0,0,0,1,1,0,1,0,454,373,data/raw/FracAtlas/images/Fractured/IMG0002491.jpg,fa09b6013c44308b19a2f1a794a1c07878d890854f079df5f452f6cca3a8af62,test,0.00037823780439794064,0,1
+IMG0002499.jpg,1,0,0,0,0,0,0,1,1,0,1,0,454,373,data/raw/FracAtlas/images/Fractured/IMG0002499.jpg,eecbc46778266a9ac4fbeac739ff8b3f373764348aaae8de889cc274e42a1519,test,4.743330919154687e-06,0,1
+IMG0002509.jpg,0,0,1,0,0,1,0,1,1,1,0,0,454,373,data/raw/FracAtlas/images/Fractured/IMG0002509.jpg,73d43d94fe9841533c1f397e7eab7355066f81b693782a5eb45259c055c2f8ec,test,2.03319032152649e-05,0,1
+IMG0002569.jpg,1,0,0,0,0,0,1,1,2,0,1,0,373,454,data/raw/FracAtlas/images/Fractured/IMG0002569.jpg,6491dcb714386f3d6aedb8bde1eeaeff99c893c5e9e8943c7fed2d14f5f11240,test,2.9438127967296168e-05,0,1
+IMG0002607.jpg,0,0,1,0,0,1,0,1,1,1,0,0,373,454,data/raw/FracAtlas/images/Fractured/IMG0002607.jpg,70922d75774cc2517ea5a1236725fdb93ddfd74824f3d7c73bf86e887da62ad5,test,6.727079380652867e-06,0,1
+IMG0003294.jpg,1,0,0,0,0,0,0,1,1,0,1,0,373,454,data/raw/FracAtlas/images/Fractured/IMG0003294.jpg,8956c3e2d0c17817a27bcdbbad4663b8efb523f16c44780bf859455bd19186ab,test,0.00031126238172873855,0,1
+IMG0003420.jpg,1,0,0,0,0,1,0,1,1,0,1,0,454,373,data/raw/FracAtlas/images/Fractured/IMG0003420.jpg,d46cbefaaffd35a051c5b9b1ab3406e4e4fc558636675079b6badcb68e19399e,test,0.00040715004433877766,0,1

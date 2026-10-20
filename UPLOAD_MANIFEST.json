@@ -1,0 +1,204 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 173,
+      "sha256": "69e08288565de8e7862aa97f9a39aca7eb51e8722fd457026da35b0334e13aba"
+    },
+    {
+      "path": "artifacts/baseline/config.json",
+      "bytes": 214,
+      "sha256": "864b0245d8e17ef4ebd4422a0740e3526cb12be074ae968aa586ba2ab559234c"
+    },
+    {
+      "path": "artifacts/baseline/curves.png",
+      "bytes": 62821,
+      "sha256": "691c716c7ae44f144d2183b3917ecfaab5791546b33dd5ea9b3316e545b54c6a"
+    },
+    {
+      "path": "artifacts/baseline/false_negatives.csv",
+      "bytes": 3117,
+      "sha256": "01fbedee3a0bd486081434ce5dfc6731bcd54fc3f56f65e07fbc430c08673891"
+    },
+    {
+      "path": "artifacts/baseline/metrics.json",
+      "bytes": 5267,
+      "sha256": "14a4196ce241957c6bd7c357bd5fb9f93c8fb0dcc61e2a4d66720768c4a38540"
+    },
+    {
+      "path": "artifacts/baseline/missed_fractures.png",
+      "bytes": 1500510,
+      "sha256": "ab8821e913c0ee97a32bc84378d134be516818c238d61210c0596d1466d17bdc"
+    },
+    {
+      "path": "artifacts/baseline/model.joblib",
+      "bytes": 345511,
+      "sha256": "107c569ac004f7c5656828ed98556d53e89198125fd9cc3debdf78222821a095"
+    },
+    {
+      "path": "artifacts/baseline/test_predictions.csv",
+      "bytes": 117973,
+      "sha256": "f253598871a50ceeb748e5f421137ceb46d934879e106d32f2ea7c380259e0e7"
+    },
+    {
+      "path": "artifacts/data_audit.json",
+      "bytes": 10738,
+      "sha256": "a4302f97246e7a945b66eedea7181b7cfb1be26f5e630f4521c35a1170b3f6d8"
+    },
+    {
+      "path": "artifacts/image_audit.json",
+      "bytes": 2175417,
+      "sha256": "674cd81a7da8175e867700b2e447313879cd82dbf31d150445031af4444b4e30"
+    },
+    {
+      "path": "artifacts/manifest.csv",
+      "bytes": 695138,
+      "sha256": "8660692ee1b5069b83519d6543789a48bec23b8fe2c03517fc6de8b2d9e84817"
+    },
+    {
+      "path": "artifacts/test_replay/dataset_overview.png",
+      "bytes": 99402,
+      "sha256": "c5c461f1be00dd03abdf55b26e0b0aec216f735e09f5c991310031146a3f7d02"
+    },
+    {
+      "path": "artifacts/test_replay/index.html",
+      "bytes": 152830,
+      "sha256": "d872580d8fd388b4a52021930c51b1f9d3d1548cb5cef81ea5418893dbfbee5b"
+    },
+    {
+      "path": "artifacts/test_replay/inference_summary.json",
+      "bytes": 1011,
+      "sha256": "db5db9388a5a9b9f31cc8bd27b2bdcb73a0d611d02f892d8d391716be6c2dc66"
+    },
+    {
+      "path": "artifacts/test_replay/prediction_examples.png",
+      "bytes": 735744,
+      "sha256": "6397197cd409812381b3e5a8dc57b91d2f67296269153dac7323292eb8605179"
+    },
+    {
+      "path": "artifacts/test_replay/test_predictions.csv",
+      "bytes": 131763,
+      "sha256": "84bc73215e653b122c1d48572aa57ebfc43dc65dc09a2b5b0d4aaf06ac32efe7"
+    },
+    {
+      "path": "artifacts/test_replay/test_results.png",
+      "bytes": 103742,
+      "sha256": "4cac5626801d9fc609ae785534eebbdbbc60e5bc6f83ea5f7ae9a45a6a442ccb"
+    },
+    {
+      "path": "common.py",
+      "bytes": 4872,
+      "sha256": "c52d7e4eb9212c0e974a284b5efe5961e85f0ef54ab867a3e11307eb97a14e93"
+    },
+    {
+      "path": "dataset_overview.png",
+      "bytes": 99402,
+      "sha256": "c5c461f1be00dd03abdf55b26e0b0aec216f735e09f5c991310031146a3f7d02"
+    },
+    {
+      "path": "environment.txt",
+      "bytes": 166,
+      "sha256": "6a4d3936413765da7f2f94e88a71e1011cf22d0b24da7390d9d3e2234af36674"
+    },
+    {
+      "path": "inference_summary.json",
+      "bytes": 1011,
+      "sha256": "db5db9388a5a9b9f31cc8bd27b2bdcb73a0d611d02f892d8d391716be6c2dc66"
+    },
+    {
+      "path": "package_github.py",
+      "bytes": 1722,
+      "sha256": "8c45fe1e02b401ef9569028b4e5257826ade1e26959ea3bc24987dab361cef35"
+    },
+    {
+      "path": "predict.py",
+      "bytes": 1531,
+      "sha256": "ce92fe5e4f6e57a950d4c03ded005c4207757ec9bb2b56377beca5f1540ca630"
+    },
+    {
+      "path": "prediction_examples.png",
+      "bytes": 735744,
+      "sha256": "6397197cd409812381b3e5a8dc57b91d2f67296269153dac7323292eb8605179"
+    },
+    {
+      "path": "prepare.py",
+      "bytes": 7005,
+      "sha256": "a98f473b8d453cc2bd44e250866456999b4f2c3b15cce22d08de4ac6a51187a1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 14201,
+      "sha256": "81366638ba2e3b06f6a39c0e0e989dbaf9807a02ac28bdf5065ea25818dd661f"
+    },
+    {
+      "path": "report.py",
+      "bytes": 3552,
+      "sha256": "e04c346f79046fdbfc33740d86d35c4a255b5fc69efa85c0c1bd9412889f458e"
+    },
+    {
+      "path": "requirements-cnn.txt",
+      "bytes": 49,
+      "sha256": "8158a8b28505a19b05dc319064862e75b41b1f166897de80c1a51e8e3c1b4166"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 68,
+      "sha256": "6ddbc5240b542b992f015de6371227a1d1e4be9cca78fb75da8d4db760346f88"
+    },
+    {
+      "path": "RESULTS_baseline.md",
+      "bytes": 2171,
+      "sha256": "359502c95f138b8d657e6b5671caa206b19b9a3e803149eec9fe3eedf6f7fa49"
+    },
+    {
+      "path": "review.py",
+      "bytes": 2333,
+      "sha256": "3e50f40189a4d73f50ada0620915366c2ef65cb491cb9932ab800b6a8a7e903d"
+    },
+    {
+      "path": "test_predictions.csv",
+      "bytes": 131763,
+      "sha256": "84bc73215e653b122c1d48572aa57ebfc43dc65dc09a2b5b0d4aaf06ac32efe7"
+    },
+    {
+      "path": "test_results.png",
+      "bytes": 103742,
+      "sha256": "4cac5626801d9fc609ae785534eebbdbbc60e5bc6f83ea5f7ae9a45a6a442ccb"
+    },
+    {
+      "path": "train_baseline.py",
+      "bytes": 2418,
+      "sha256": "242ce62066776c843dd5862b6195deebd918bb66acff828a248307f7e0ae7b18"
+    },
+    {
+      "path": "train_cnn.py",
+      "bytes": 4508,
+      "sha256": "d6db4d6e5168556aaecb4814e26efb5a15bb4269a21dd624cc3218487fb87f5c"
+    },
+    {
+      "path": "verify.py",
+      "bytes": 1216,
+      "sha256": "a9a15d5b6dec4680ddf90074e5a3e1f1135206a39254d0587a7f9966a818c795"
+    },
+    {
+      "path": "visual_report.html",
+      "bytes": 149236,
+      "sha256": "ee8b9cf109576d5a0ee347b451871cdf95286df91378c46cfa6bf053a4d1f485"
+    },
+    {
+      "path": "visualize_test.py",
+      "bytes": 9082,
+      "sha256": "16bb056ba0528d5c04b612b57747e11357c443e3552e12249e43bdff16fdd7f8"
+    }
+  ],
+  "excluded": [
+    "data/",
+    "FracAtlas.zip",
+    "artifacts/baseline_features.npz",
+    "artifacts/torch_cache/",
+    ".venv/",
+    "__pycache__/",
+    "upload ZIPs and environment secrets"
+  ],
+  "dataset_source": "https://doi.org/10.6084/m9.figshare.22363012"
+}
